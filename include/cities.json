@@ -1,0 +1,22 @@
+[
+    {
+        "city": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+    },
+    {
+        "city": "Pune",
+        "latitude": 18.5204,
+        "longitude": 73.8567
+    },
+    {
+        "city": "Mumbai",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+    },
+    {
+        "city": "Delhi",
+        "latitude": 28.6139,
+        "longitude": 77.2090
+    }
+]
